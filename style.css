@@ -27,3 +27,14 @@ table{
     margin: 0 auto;
     color: white;
 }
+
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem;
+    border-top-right-radius: 1rem;
+    text-align: center;
+    color: #050f19;
+}
+.footer .link{
+    color: #050f19;
+}
