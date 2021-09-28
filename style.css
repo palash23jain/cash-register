@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    width: 360px;
+    background-image: url("rupee.jpg");
+    color: #1E3A8A;
+    text-align: center;
+}
+
+.note, .no-of-notes, .no-of-notes-text {
+    border: 1px solid #333;
+}
+
+button{
+    display: block;
+    margin: 10px auto;
+    padding: 3px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input{
+    background: #fffacd;
+    border-radius: 5px;
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    color: white;
+}
