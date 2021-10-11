@@ -2,13 +2,13 @@ body{
     margin: 0 auto;
     padding: 0;
     width: 360px;
-    background-image: url("rupee.jpg");
     color: #1E3A8A;
     text-align: center;
 }
 
 .note, .no-of-notes, .no-of-notes-text {
     border: 1px solid #333;
+    padding: 5px;
 }
 
 button{
@@ -25,15 +25,16 @@ input{
 }
 table{
     margin: 0 auto;
-    color: white;
 }
 
 .footer{
-    background-color: var(--primary-color);
     padding: 2rem;
     border-top-right-radius: 1rem;
     text-align: center;
     color: #050f19;
+}
+.footer ul{
+    padding: 0;
 }
 .footer .link{
     color: #050f19;
